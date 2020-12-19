@@ -1,0 +1,33 @@
+body{
+    
+    padding-left: 90px;
+    margin: 80px;
+    margin-left: 35%;
+    
+}
+form{
+    width: 250px;
+    background: #ddd;
+    padding: 15px 15px 15px 15px;
+    -webkit-box-shadow: 0 2px 5px 2px rgb(34, 30, 30);
+    box-shadow: 0 2px 5px 2px rgb(34, 30, 30);
+}
+ .text{
+    width: 100%;
+    font-size: 36px;
+    padding: 5px 5px;
+    box-sizing: border-box;
+    text-align: right;
+    font-family: 'Orbitron', sans-serif;
+}
+.button{
+    width: 58px;
+    height: 55px;
+    background: rgb(27, 19, 19);
+    color: #fff;
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+hr{
+    margin: 15px 0;
+}
